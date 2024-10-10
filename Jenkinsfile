@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'mkdir sdfss'
+                sh 'touch fdsfsssss'
             }
         }
     }
